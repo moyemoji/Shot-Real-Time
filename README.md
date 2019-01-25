@@ -1,0 +1,2 @@
+# ShotRealTime
+Android摄像头视频预览帧保存为JPG并存储到系统文件夹
